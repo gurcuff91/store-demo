@@ -1,0 +1,14 @@
+.home {
+    display: flex;
+    justify-content: center;
+    margin-top: 15%;
+
+    .content {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+    .content p {
+        font-family: 'Courier New', Courier, monospace;
+    }
+}
